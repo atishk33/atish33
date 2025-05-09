@@ -1,4 +1,6 @@
-![logo](file:///C:/Users/atish/Downloads/Black%20Green%20Modern%20Digital%20Marketing%20Open%20to%20Work%20LinkedIn%20Banner.png)
+
+![image](https://github.com/user-attachments/assets/9158aa90-cc83-46c1-88d6-d0c53459087e)
+
 <h1 align="center">Hi 👋, I'm Atish Kumar</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
